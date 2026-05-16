@@ -10,6 +10,10 @@ Real-time auction engine in Go. Concurrent bidding with optimistic locking, anti
 
 ---
 
+<img width="1066" height="352" alt="image" src="https://github.com/user-attachments/assets/1d10c05e-9061-45fd-9e6b-ab57eafd933e" />
+
+---
+
 ## Features
 
 - REST API and web UI in one binary
